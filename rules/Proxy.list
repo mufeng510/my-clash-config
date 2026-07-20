@@ -1,3 +1,6 @@
 # DOMAIN,muyuan.do
-DOMAIN,idcflare.com
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN, idcflare.com
+DOMAIN-SUFFIX, cloudflare.com
+AND,((NETWORK,UDP),(DST-PORT,3478))
+AND,((NETWORK,UDP),(DST-PORT,19302))
+AND,((NETWORK,UDP),(DST-PORT,5349))
