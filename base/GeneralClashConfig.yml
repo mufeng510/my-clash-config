@@ -39,8 +39,3 @@ dns:
       - '+.google.com'
       - '+.facebook.com'
       - '+.youtube.com'
-
-  nameserver-policy:
-    "feather.qqrr.qzz.io": https://dns.alidns.com/dns-query
-    "feather.theqqrr.sbs": https://dns.alidns.com/dns-query
-    "cloudflare-ech.com": https://dns.alidns.com/dns-query
