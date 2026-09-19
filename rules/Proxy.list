@@ -6,3 +6,4 @@ DOMAIN, gsa.apple.com
 DOMAIN-SUFFIX, klei.com
 DOMAIN-SUFFIX, kleientertainment.com
 DOMAIN, ai.centos.hk
+DOMAIN-SUFFIX, ghcr.io
