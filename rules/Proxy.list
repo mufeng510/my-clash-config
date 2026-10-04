@@ -5,6 +5,7 @@ DOMAIN-SUFFIX, cloudflareinsights.com
 DOMAIN, gsa.apple.com
 DOMAIN-SUFFIX, klei.com
 DOMAIN-SUFFIX, kleientertainment.com
+# DOMAIN-SUFFIX, steamconnecttest.com
 DOMAIN, ai.centos.hk
 DOMAIN-SUFFIX, ghcr.io
 DOMAIN-SUFFIX, pinterest.com
