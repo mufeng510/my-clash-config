@@ -4,7 +4,7 @@ DOMAIN-SUFFIX, yq59.top
 DOMAIN, frapi.centos.hk
 
 # Steam CDN
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX, steamstatic.com
+DOMAIN-SUFFIX, steamcontent.com
+DOMAIN-SUFFIX, akamaized.net
+DOMAIN-SUFFIX, akamaihd.net
